@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kafka-streams-microservices-example" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-boot-kafka-consumer-example" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-boot-kafka-producer-example" vcs="Git" />
   </component>
